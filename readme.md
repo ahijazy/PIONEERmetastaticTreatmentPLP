@@ -1,4 +1,4 @@
-A Package Skeleton for Patientl-Level Prediction Studies
+Patient level prediction package for PIONEER studyathon 2022 (metastatic prostate cancer patients) 
 ========================================================
 
 The goal of the package is to identify the following: Out of the patients with metastatic hormone sensitive prostate cancer treated with one of the approved treatment plans, who will experience progression and death during an establised follow-up period (1,3,5 years).
@@ -23,7 +23,6 @@ Instructions To Build Package
 source('./extras/packageDeps.R')
 ```
 - Build the package by clicking the R studio 'Install and Restart' button in the build tab (top right)
-
 
 
 Instructions To Run Package
