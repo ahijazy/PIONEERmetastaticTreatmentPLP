@@ -1,7 +1,7 @@
 A Package Skeleton for Patientl-Level Prediction Studies
 ========================================================
 
-The goal of the package is to identify the following: Out of the patients with metastatic hormone sensitive prostate cancer treated with one of the approved treatment plans, who will experience progressuion and death during an establised follow-up period ( 1,3,5 years).
+The goal of the package is to identify the following: Out of the patients with metastatic hormone sensitive prostate cancer treated with one of the approved treatment plans, who will experience progression and death during an establised follow-up period (1,3,5 years).
  
 PIONEER IMI’S “BIG DATA FOR BETTER OUTCOMES” PROGRAM 
 
