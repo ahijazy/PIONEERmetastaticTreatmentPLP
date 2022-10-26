@@ -1,9 +1,22 @@
 Patient level prediction package for PIONEER studyathon 2022 (metastatic prostate cancer patients) 
 ========================================================
 
+<img src="https://img.shields.io/badge/Study%20Status-Repo%20Created-lightgray.svg" alt="Study Status: Repo Created">
+
+- Analytics use case(s): **Patient-Level Prediction**
+- Study type: **Clinical Application**
+- Tags: **Cancer**
+- Study lead: **Juan-Gomez Rivas**
+- Study lead forums tag: **[bdemeulder](https://forums.ohdsi.org/u/bdemeulder)**
+- Study start date: **October 31, 2022**
+- Study end date: **-**
+- Protocol: **-**
+- Publications: **-**
+- Results explorer: **-**
+
 The goal of the package is to identify the following: Out of the patients with metastatic hormone sensitive prostate cancer treated with one of the approved treatment plans, who will experience progression and death during an establised follow-up period (1,3,5 years).
  
-PIONEER IMI’S “BIG DATA FOR BETTER OUTCOMES” PROGRAM 
+This study is undertaken by the 2022 prostate cancer studyathon of the [IMI PIONEER](https://prostate-pioneer.eu) project.
 
 Vignette: [Using the package skeleton for patient-level prediction studies](https://raw.githubusercontent.com/OHDSI/StudyProtocolSandbox/master/PIONEERmetastaticTreatmentPLP/inst/doc/UsingSkeletonPackage.pdf)
 
