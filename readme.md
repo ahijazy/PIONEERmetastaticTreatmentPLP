@@ -1,7 +1,7 @@
 Patient level prediction package for PIONEER studyathon 2022 (metastatic prostate cancer patients) 
 ========================================================
 
-<img src="https://img.shields.io/badge/Study%20Status-Repo%20Created-lightgray.svg" alt="Study Status: Repo Created">
+<img src="https://img.shields.io/badge/Study%20Status-Started-blue.svg" alt="Study Status: Started">
 
 - Analytics use case(s): **Patient-Level Prediction**
 - Study type: **Clinical Application**
