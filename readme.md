@@ -36,8 +36,11 @@ Instructions To Build Package
 source('./extras/packageDeps.R')
 ```
 - Build the package by clicking the R studio 'Install and Restart' button in the build tab (top right)
-
-
+- If you do not have ffbase installed you can install it using:
+```r
+library(devtools)
+install_github("edwindj/ffbase", subdir="pkg")
+```
 Instructions To Run Package
 ===================
 - Execute the study by running the code in (extras/CodeToRun.R) :
