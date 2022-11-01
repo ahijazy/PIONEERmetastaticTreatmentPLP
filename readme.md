@@ -32,7 +32,12 @@ Instructions To Build Package
 
 - Open the package project (file ending with '.Rproj') by double clicking it
 - Install any missing dependancies for the package by running:
+ 
 ```r
+library(devtools)
+install_github("edwindj/ffbase", subdir="pkg") # installs ffbase
+remove.packages(PatientLevelPrediction)        # remove the installed plp package
+install_github("OHDSI/PatientLevelPrediction", ref = 'v5.0.5') # ensures that the correct version of plp ins installed
 source('./extras/packageDeps.R')
 ```
 - Build the package by clicking the R studio 'Install and Restart' button in the build tab (top right)
