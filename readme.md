@@ -171,9 +171,7 @@ Instructions To Share Package
 
 - Share the package by adding it to the OHDSI/StudyProtocolSandbox github repo and get people to install by:
 ```r
-  # get the latest PatientLevelPrediction
-  install.packages("devtools")
-  devtools::install_github("OHDSI/PatientLevelPrediction")
+
   # check the package
   PatientLevelPrediction::checkPlpInstallation()
   
