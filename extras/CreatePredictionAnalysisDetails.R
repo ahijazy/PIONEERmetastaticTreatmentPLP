@@ -36,15 +36,14 @@ createAnalysesDetails <- function(workFolder) {
                                         minTimeAtRisk = 364, 
                                         includeAllOutcomes = T)
   pop2 <- createStudyPopulationSettings(riskWindowStart = 1, 
-                                        riskWindowEnd = 365,
+                                        riskWindowEnd = 3650,
                                         requireTimeAtRisk = T, 
                                         minTimeAtRisk = 364, 
                                         includeAllOutcomes = F)
   populationSettingList <- list(pop1, pop2)
   
   # 3) ADD COVARIATES settings you want
-  covariateSettings1 <- FeatureExtraction::createCovariateSettings(useDemographicsGender = TRUE,
-                                                                  useDemographicsAgeGroup = TRUE,
+  covariateSettings1 <- FeatureExtraction::createCovariateSettings(useDemographicsAgeGroup = TRUE,
                                                                   useDemographicsRace = TRUE,
                                                                   useConditionOccurrenceAnyTimePrior = T,
                                                                   useConditionEraAnyTimePrior = TRUE,
@@ -64,22 +63,13 @@ createAnalysesDetails <- function(workFolder) {
                                                                   shortTermStartDays = -30, 
                                                                   endDays = 0)
   
-  covariateSettings2 <- FeatureExtraction::createCovariateSettings(useDemographicsGender = TRUE,
-                                                                   useDemographicsAgeGroup = TRUE,
-                                                                   useDemographicsRace = TRUE,
-                                                                   useConditionOccurrenceAnyTimePrior = T,
-                                                                   useConditionEraAnyTimePrior = TRUE,
-                                                                   useConditionGroupEraAnyTimePrior = TRUE, 
-                                                                   longTermStartDays = -365,
-                                                                   mediumTermStartDays = -180, 
-                                                                   shortTermStartDays = -30, 
-                                                                   endDays = 0)
+ 
   
   covariateSettingList <- list(covariateSettings1, covariateSettings2) 
   
   # ADD COHORTS
-  cohortIds <- c(1,2,3)  # add all your Target cohorts here
-  outcomeIds <- c(2,3)   # add all your outcome cohorts here
+  cohortIds <- c(245)  # add all your Target cohorts here
+  outcomeIds <- c(246)   # add all your outcome cohorts here
   
   
   # this will then generate and save the json specification for the analysis
