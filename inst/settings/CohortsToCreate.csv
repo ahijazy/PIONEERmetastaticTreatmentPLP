@@ -1,3 +1,3 @@
-cohortId,atlasId,name
-246,246,Denovo_metastatic_patients_death
-245,245,De_novo_metastatic_patients
+cohortId,name
+246,Denovo_metastatic_patients_death
+245,De_novo_metastatic_patients
