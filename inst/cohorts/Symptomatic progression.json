@@ -1,0 +1,643 @@
+{
+  "ConceptSets": [
+    {
+      "id": 0,
+      "name": "[PIONEER] Symptoms",
+      "expression": {
+        "items": [
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Clinical Finding",
+              "CONCEPT_CODE": "236648008",
+              "CONCEPT_ID": 4128388,
+              "CONCEPT_NAME": "Acute retention of urine",
+              "DOMAIN_ID": "Condition",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "SNOMED"
+            }
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Clinical Finding",
+              "CONCEPT_CODE": "716749005",
+              "CONCEPT_ID": 37396808,
+              "CONCEPT_NAME": "Cancer-related fatigue",
+              "DOMAIN_ID": "Condition",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "SNOMED"
+            },
+            "isExcluded": true,
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Clinical Finding",
+              "CONCEPT_CODE": "272036004",
+              "CONCEPT_ID": 4158491,
+              "CONCEPT_NAME": "C/O - debility - malaise",
+              "DOMAIN_ID": "Condition",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "SNOMED"
+            },
+            "isExcluded": true,
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Clinical Finding",
+              "CONCEPT_CODE": "42942008",
+              "CONCEPT_ID": 4179527,
+              "CONCEPT_NAME": "Compression fracture of vertebral column",
+              "DOMAIN_ID": "Condition",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "SNOMED"
+            }
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Clinical Finding",
+              "CONCEPT_CODE": "82022002",
+              "CONCEPT_ID": 4219363,
+              "CONCEPT_NAME": "Congenital debility of fetus",
+              "DOMAIN_ID": "Condition",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "SNOMED"
+            },
+            "isExcluded": true,
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Clinical Finding",
+              "CONCEPT_CODE": "84229001",
+              "CONCEPT_ID": 4223659,
+              "CONCEPT_NAME": "Fatigue",
+              "DOMAIN_ID": "Condition",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "SNOMED"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Clinical Finding",
+              "CONCEPT_CODE": "420900006",
+              "CONCEPT_ID": 4221911,
+              "CONCEPT_NAME": "Fatigue associated with AIDS",
+              "DOMAIN_ID": "Condition",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "SNOMED"
+            },
+            "isExcluded": true,
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Clinical Finding",
+              "CONCEPT_CODE": "704369007",
+              "CONCEPT_ID": 45772721,
+              "CONCEPT_NAME": "Fatigue due to treatment",
+              "DOMAIN_ID": "Condition",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "SNOMED"
+            },
+            "isExcluded": true,
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Clinical Finding",
+              "CONCEPT_CODE": "197941005",
+              "CONCEPT_ID": 75004,
+              "CONCEPT_NAME": "Frank hematuria",
+              "DOMAIN_ID": "Condition",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "SNOMED"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Clinical Finding",
+              "CONCEPT_CODE": "43064006",
+              "CONCEPT_ID": 433811,
+              "CONCEPT_NAME": "Hydronephrosis",
+              "DOMAIN_ID": "Condition",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "SNOMED"
+            }
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Clinical Finding",
+              "CONCEPT_CODE": "721169007",
+              "CONCEPT_ID": 36715479,
+              "CONCEPT_NAME": "Hydronephrosis due to ureteral obstruction",
+              "DOMAIN_ID": "Condition",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "SNOMED"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Clinical Finding",
+              "CONCEPT_CODE": "81060008",
+              "CONCEPT_ID": 193518,
+              "CONCEPT_NAME": "Intestinal obstruction",
+              "DOMAIN_ID": "Condition",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "SNOMED"
+            }
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Clinical Finding",
+              "CONCEPT_CODE": "281254000",
+              "CONCEPT_ID": 4090128,
+              "CONCEPT_NAME": "Large bowel obstruction",
+              "DOMAIN_ID": "Condition",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "SNOMED"
+            }
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Clinical Finding",
+              "CONCEPT_CODE": "367391008",
+              "CONCEPT_ID": 4272240,
+              "CONCEPT_NAME": "Malaise",
+              "DOMAIN_ID": "Condition",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "SNOMED"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "3-char nonbill code",
+              "CONCEPT_CODE": "R53",
+              "CONCEPT_ID": 1572255,
+              "CONCEPT_NAME": "Malaise and fatigue",
+              "DOMAIN_ID": "Condition",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "N",
+              "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+              "VOCABULARY_ID": "ICD10CM"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Clinical Finding",
+              "CONCEPT_CODE": "271795006",
+              "CONCEPT_ID": 439926,
+              "CONCEPT_NAME": "Malaise and fatigue",
+              "DOMAIN_ID": "Condition",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "SNOMED"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "4-dig nonbill code",
+              "CONCEPT_CODE": "780.7",
+              "CONCEPT_ID": 44829293,
+              "CONCEPT_NAME": "Malaise and fatigue",
+              "DOMAIN_ID": "Condition",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "N",
+              "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+              "VOCABULARY_ID": "ICD9CM"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Clinical Finding",
+              "CONCEPT_CODE": "420801006",
+              "CONCEPT_ID": 4225027,
+              "CONCEPT_NAME": "Malaise associated with AIDS",
+              "DOMAIN_ID": "Condition",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "SNOMED"
+            },
+            "isExcluded": true,
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Clinical Finding",
+              "CONCEPT_CODE": "713425003",
+              "CONCEPT_ID": 37017192,
+              "CONCEPT_NAME": "Metastatic spinal cord compression",
+              "DOMAIN_ID": "Condition",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "SNOMED"
+            }
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "5-dig billing code",
+              "CONCEPT_CODE": "780.79",
+              "CONCEPT_ID": 44823445,
+              "CONCEPT_NAME": "Other malaise and fatigue",
+              "DOMAIN_ID": "Condition",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "N",
+              "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+              "VOCABULARY_ID": "ICD9CM"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "4-char nonbill code",
+              "CONCEPT_CODE": "R53.8",
+              "CONCEPT_ID": 1572256,
+              "CONCEPT_NAME": "Other malaise and fatigue",
+              "DOMAIN_ID": "Condition",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "N",
+              "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+              "VOCABULARY_ID": "ICD10CM"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Clinical Finding",
+              "CONCEPT_CODE": "444042007",
+              "CONCEPT_ID": 40484614,
+              "CONCEPT_NAME": "Postexertional fatigue",
+              "DOMAIN_ID": "Condition",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "SNOMED"
+            },
+            "isExcluded": true,
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Clinical Finding",
+              "CONCEPT_CODE": "250002000",
+              "CONCEPT_ID": 4092860,
+              "CONCEPT_NAME": "Rapid fatigue of gait",
+              "DOMAIN_ID": "Condition",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "SNOMED"
+            },
+            "isExcluded": true,
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Clinical Finding",
+              "CONCEPT_CODE": "267064002",
+              "CONCEPT_ID": 192450,
+              "CONCEPT_NAME": "Retention of urine",
+              "DOMAIN_ID": "Condition",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "SNOMED"
+            }
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Clinical Finding",
+              "CONCEPT_CODE": "18726006",
+              "CONCEPT_ID": 4090207,
+              "CONCEPT_NAME": "Senile asthenia",
+              "DOMAIN_ID": "Condition",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "SNOMED"
+            },
+            "isExcluded": true,
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Clinical Finding",
+              "CONCEPT_CODE": "281255004",
+              "CONCEPT_ID": 4090129,
+              "CONCEPT_NAME": "Small bowel obstruction",
+              "DOMAIN_ID": "Condition",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "SNOMED"
+            }
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Clinical Finding",
+              "CONCEPT_CODE": "148871000119109",
+              "CONCEPT_ID": 44782753,
+              "CONCEPT_NAME": "Weakness as a late effect of stroke",
+              "DOMAIN_ID": "Condition",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "SNOMED"
+            },
+            "isExcluded": true,
+            "includeDescendants": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 1,
+      "name": "[PIONEER] AKI",
+      "expression": {
+        "items": [
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Clinical Finding",
+              "CONCEPT_CODE": "19351000",
+              "CONCEPT_ID": 435308,
+              "CONCEPT_NAME": "Acute glomerulonephritis",
+              "DOMAIN_ID": "Condition",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "SNOMED"
+            },
+            "isExcluded": true,
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Clinical Finding",
+              "CONCEPT_CODE": "58574008",
+              "CONCEPT_ID": 4242411,
+              "CONCEPT_NAME": "Acute nephropathy",
+              "DOMAIN_ID": "Condition",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "SNOMED"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Clinical Finding",
+              "CONCEPT_CODE": "36689008",
+              "CONCEPT_ID": 4280571,
+              "CONCEPT_NAME": "Acute pyelonephritis",
+              "DOMAIN_ID": "Condition",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "SNOMED"
+            },
+            "isExcluded": true,
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Clinical Finding",
+              "CONCEPT_CODE": "236574008",
+              "CONCEPT_ID": 4128371,
+              "CONCEPT_NAME": "Acute rejection of renal transplant",
+              "DOMAIN_ID": "Condition",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "SNOMED"
+            },
+            "isExcluded": true,
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Clinical Finding",
+              "CONCEPT_CODE": "236575009",
+              "CONCEPT_ID": 4127550,
+              "CONCEPT_NAME": "Acute rejection of renal transplant - grade I",
+              "DOMAIN_ID": "Condition",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "SNOMED"
+            },
+            "isExcluded": true,
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Clinical Finding",
+              "CONCEPT_CODE": "236576005",
+              "CONCEPT_ID": 4032296,
+              "CONCEPT_NAME": "Acute rejection of renal transplant - grade II",
+              "DOMAIN_ID": "Condition",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "SNOMED"
+            },
+            "isExcluded": true,
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Clinical Finding",
+              "CONCEPT_CODE": "236577001",
+              "CONCEPT_ID": 4127551,
+              "CONCEPT_NAME": "Acute rejection of renal transplant - grade III",
+              "DOMAIN_ID": "Condition",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "SNOMED"
+            },
+            "isExcluded": true,
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Clinical Finding",
+              "CONCEPT_CODE": "298015003",
+              "CONCEPT_ID": 432961,
+              "CONCEPT_NAME": "Acute renal papillary necrosis with renal failure",
+              "DOMAIN_ID": "Condition",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "SNOMED"
+            },
+            "isExcluded": true,
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Clinical Finding",
+              "CONCEPT_CODE": "236582008",
+              "CONCEPT_ID": 4032298,
+              "CONCEPT_NAME": "Acute-on-chronic rejection of renal transplant",
+              "DOMAIN_ID": "Condition",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "SNOMED"
+            },
+            "isExcluded": true,
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Clinical Finding",
+              "CONCEPT_CODE": "236571000",
+              "CONCEPT_ID": 4032295,
+              "CONCEPT_NAME": "Hyperacute rejection of renal transplant",
+              "DOMAIN_ID": "Condition",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "SNOMED"
+            },
+            "isExcluded": true,
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Clinical Finding",
+              "CONCEPT_CODE": "236573002",
+              "CONCEPT_ID": 4126131,
+              "CONCEPT_NAME": "Very mild acute rejection of renal transplant",
+              "DOMAIN_ID": "Condition",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "SNOMED"
+            },
+            "isExcluded": true,
+            "includeDescendants": true
+          }
+        ]
+      }
+    }
+  ],
+  "PrimaryCriteria": {
+    "CriteriaList": [
+      {
+        "ConditionOccurrence": {
+          "CodesetId": 0
+        }
+      },
+      {
+        "ConditionOccurrence": {
+          "CodesetId": 1
+        }
+      }
+    ],
+    "ObservationWindow": {
+      "PriorDays": 0,
+      "PostDays": 0
+    },
+    "PrimaryCriteriaLimit": {
+      "Type": "All"
+    }
+  },
+  "QualifiedLimit": {
+    "Type": "First"
+  },
+  "ExpressionLimit": {
+    "Type": "First"
+  },
+  "InclusionRules": [],
+  "EndStrategy": {
+    "DateOffset": {
+      "DateField": "EndDate",
+      "Offset": 1
+    }
+  },
+  "CensoringCriteria": [],
+  "CollapseSettings": {
+    "CollapseType": "ERA",
+    "EraPad": 0
+  },
+  "CensorWindow": {},
+  "cdmVersionRange": ">=5.0.0"
+}
