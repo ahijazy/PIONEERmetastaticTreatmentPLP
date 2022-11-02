@@ -40,8 +40,8 @@ createAnalysesDetails <- function(workFolder) {
                                         requireTimeAtRisk = T, 
                                         minTimeAtRisk = 364, 
                                         includeAllOutcomes = F)
-  populationSettingList <- list(pop1, pop2)
-  
+  populationSettingList <- list(pop1)
+                                
   # 3) ADD COVARIATES settings you want
   covariateSettings1 <- FeatureExtraction::createCovariateSettings(useDemographicsAgeGroup = TRUE,
                                                                   useDemographicsRace = TRUE,
